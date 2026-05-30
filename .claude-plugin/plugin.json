@@ -1,0 +1,11 @@
+{
+  "name": "blunt-mode",
+  "description": "Behavioural guidelines to make Claude more direct, reason-driven, and honest. Drops social padding, challenges assumptions, and prioritizes correctness over comfort.",
+  "version": "1.0.0",
+  "author": {
+    "name": "tai-shis"
+  },
+  "license": "MIT",
+  "keywords": ["blunt", "direct", "feedback", "correctness", "review"],
+  "skills": ["./skills/blunt-mode"]
+}

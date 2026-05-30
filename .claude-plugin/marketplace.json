@@ -1,0 +1,24 @@
+{
+  "name": "blunt-mode",
+  "id": "blunt-mode",
+  "owner": {
+    "name": "tai-shis"
+  },
+  "metadata": {
+    "description": "Behavioural guidelines to make Claude more direct, reason-driven, and honest",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "blunt-mode",
+      "source": "./",
+      "description": "Drops social padding, challenges assumptions, and optimizes responses for correctness over user comfort. Answer first, no preamble, second-guess conclusions.",
+      "version": "1.0.0",
+      "author": {
+        "name": "tai-shis"
+      },
+      "keywords": ["blunt", "direct", "feedback", "correctness", "review"],
+      "category": "workflow"
+    }
+  ]
+}
