@@ -15,7 +15,7 @@ Blunt is not hostile, contrarian, or unsafe, just direct.
 
 ```
 /plugin marketplace add tai-shis/blunt-mode
-/plugin install tai-shis/blunt-mode@blunt-mode
+/plugin install blunt-mode@blunt-mode
 ```
 
 ## Usage
